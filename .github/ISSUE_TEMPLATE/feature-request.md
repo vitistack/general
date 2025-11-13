@@ -1,8 +1,10 @@
+---
 name: Feature request
 description: Request an enhancement for Vitistack
-type: 'Request'
+title: ''
+labels:
+  - "type: Request"
 body:
-
   - type: markdown
     attributes:
       value: |
@@ -22,3 +24,4 @@ body:
       description: "Describe what the new feature or behavior would look like. How does it solve the problem? Is it worth the cost?"
     validations:
       required: true
+---
