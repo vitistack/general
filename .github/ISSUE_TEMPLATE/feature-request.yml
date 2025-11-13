@@ -1,25 +1,25 @@
----
 name: Feature request
-about: Request an enhancement for Vitistack
-title: 
-labels: Request
+description: Request an enhancement for Vitistack
+title: "[Feature]: "
+labels: ["Request"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this report!
+        Thanks for taking the time to fill out this feature request!
   - type: textarea
+    id: problem
     attributes:
       label: Problem
       description: Describe the problem to be solved.
-      placeholder: Tell us ...
+      placeholder: Tell us what problem you're trying to solve...
     validations:
       required: true
   - type: textarea
+    id: expected-behavior
     attributes:
       label: Expected behavior
       description: Describe what the new feature or behavior would look like. How does it solve the problem? Is it worth the cost?
-      placeholder: Tell us ...
+      placeholder: Describe the solution you'd like...
     validations:
       required: true
----
