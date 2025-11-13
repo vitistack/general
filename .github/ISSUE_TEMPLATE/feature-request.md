@@ -4,6 +4,7 @@ about: Request an enhancement for Vitistack
 title: ''
 labels: Request
 body:
+---
 
   - type: markdown
     attributes:
@@ -24,4 +25,3 @@ body:
       description: "Describe what the new feature or behavior would look like. How does it solve the problem? Is it worth the cost?"
     validations:
       required: true
----
