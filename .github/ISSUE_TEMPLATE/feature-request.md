@@ -1,9 +1,8 @@
 ---
 name: Feature request
 about: Request an enhancement for Vitistack
-title: "[Feature request]: "
+title: 
 labels: Request
----
 body:
   - type: markdown
     attributes:
@@ -23,3 +22,4 @@ body:
       placeholder: Tell us ...
     validations:
       required: true
+---
