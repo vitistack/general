@@ -1,6 +1,5 @@
 name: Feature request
 description: Request an enhancement for Vitistack
-title: "[Feature]: "
 labels: ["Request"]
 body:
   - type: markdown
