@@ -1,13 +1,6 @@
----
 name: Feature request
-about: Request an enhancement for Vitistack
-title: ''
-labels: Request
-assignees: ''
-
----
-
-type: 'enhancement'
+description: Request an enhancement for Vitistack
+type: 'Request'
 body:
 
   - type: markdown
@@ -19,6 +12,7 @@ body:
     attributes:
       label: "Problem"
       description: "Describe the problem to be solved."
+      placeholder: "No smurf icons available. Smurfs are useful because ..."
     validations:
       required: true
 
