@@ -6,16 +6,6 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feature request!
-  - type: dropdown
-    id: issue-type
-    attributes:
-      label: Issue Type
-      description: This is a feature request
-      options:
-        - Feature
-      default: 0
-    validations:
-      required: true
   - type: textarea
     id: problem
     attributes:
