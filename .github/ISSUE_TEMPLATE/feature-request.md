@@ -1,9 +1,8 @@
 ---
 name: Feature request
-description: Request an enhancement for Vitistack
-title: ''
-labels:
-  - "type: Request"
+about: Request an enhancement for Vitistack
+title: "[DATE]: [FEATURE NAME]"
+labels: Request
 body:
   - type: markdown
     attributes:
